@@ -23,7 +23,7 @@ Its contribution mechanism is:
 
 **Context → Tasks → Proof → Reputation/Rewards**
 
-Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and rewards. Validation helps make proof trustworthy enough to support reputation and potential rewards.
+Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and potential rewards. Validation helps make proof trustworthy enough to support reputation and potential rewards.
 
 ---
 
