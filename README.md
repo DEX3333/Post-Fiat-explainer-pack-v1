@@ -18,20 +18,7 @@ Its contribution mechanism is:
 
 **Context → Tasks → Proof → Reputation/Rewards**
 
-Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and rewards. Validation helps make proof trustworthy enough to support reputation and rewards.
-
----
-
-## Artifact Status
-
-| Field | Status |
-|---|---|
-| Public URL | pending |
-| Format | GitHub README / GitHub Pages explainer |
-| Reader | XRP-aware retail crypto user |
-| Promise | Understand Post Fiat as its own XRPL-derived L1 and XRP competitor |
-| Mechanism | Context → Tasks → Proof → Reputation/Rewards |
-| CTA | Start with a Task Node contribution |
+Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and potential rewards. Validation helps make proof trustworthy enough to support reputation and rewards.
 
 ---
 
@@ -147,7 +134,7 @@ Reputation is not the starting point. It is the byproduct of verified work.
 
 ## Where Validation Fits
 
-Validation is what helps proof become trustworthy enough to support reputation and rewards.
+Validation is what helps proof become trustworthy enough to support reputation and potential rewards.
 
 Post Fiat's validator approach is central here.
 
@@ -204,17 +191,25 @@ That is why Task Node matters.
 
 ## What Task Node Does
 
-Task Node gives contributors a practical path:
+Task Node gives contributors a practical path for turning context into verified work.
 
-1. Find the context.
-2. Complete the task.
-3. Package the proof.
-4. Build reputation through verified contribution.
-5. Make useful work reviewable for reputation, coordination, and potential rewards.
+In Post Fiat, context is not just a prompt or task description. It is the authentic record you build over time: your values, strategies, tactics, constraints, prior work, proof history, and stated goals.
 
-Post Fiat is not just a chain for moving value. It is a network for making useful work legible.
+That record helps the network understand what a contributor is working toward, what they have already done, and how each new contribution connects to the work that came before.
 
-[Start with a Task Node contribution](https://tasknode.postfiat.org/)
+Task Node uses that context to help define bounded tasks, attach proof to completed work, and make future feedback, decisions, and contributions easier to review.
+
+The result is a clearer contribution path:
+
+1. Build context.
+2. Turn context into tasks.
+3. Complete the work.
+4. Attach proof.
+5. Make the contribution reviewable for reputation, coordination, and potential rewards.
+
+Post Fiat is not just a chain for moving value.
+
+It is a network for making useful work legible, remembered, and reusable.
 
 ---
 
@@ -263,21 +258,5 @@ The claim is narrower and stronger:
 > Post Fiat is building a more auditable coordination layer where validator trust, human contribution, AI-assisted review, portable reputation, and rewards can be connected through public proof.
 
 ---
-
-## The Simple Version
-
-Post Fiat is its own XRPL-derived Layer 1 and XRP competitor.
-
-It is built for auditable validator trust, verified human work, portable reputation, AI-mediated coordination, and capital-market use cases.
-
-Task Node is the practical contribution layer.
-
-The mechanism is:
-
-**Context → Tasks → Proof → Reputation/Rewards**
-
-Not passive income. Not an XRP token. Not another app.
-
-A network where useful work can become auditable economic signal.
 
 [Start with a Task Node contribution](https://tasknode.postfiat.org/)
