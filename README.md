@@ -31,7 +31,7 @@ Through Task Node, Post Fiat turns useful work into proof, portable reputation, 
 | Proof | Records what was done, who did it, how it was done, and what changed. | Work becomes reviewable instead of disappearing into a feed. |
 | Reputation/Rewards | Attach to contribution once the network has a clearer record of useful work. | Useful contribution can build portable memory, coordination power, and potential rewards. |
 
-Validation is what helps proof become trustworthy enough to support reputation and rewards.
+Validation is what helps proof become trustworthy enough to support reputation and potential rewards.
 
 ---
 
@@ -255,7 +255,7 @@ It is not claiming full decentralization is already complete.
 
 The claim is narrower and stronger:
 
-> Post Fiat is building a more auditable coordination layer where validator trust, human contribution, AI-assisted review, portable reputation, and rewards can be connected through public proof.
+>  Post Fiat is building a more auditable coordination layer where validator trust, human contribution, AI-assisted review, portable reputation, and potential rewards can be connected through public proof.
 
 ---
 
