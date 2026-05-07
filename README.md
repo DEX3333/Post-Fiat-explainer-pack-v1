@@ -18,7 +18,7 @@ Its contribution mechanism is:
 
 **Context → Tasks → Proof → Reputation/Rewards**
 
-Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and potential rewards. Validation helps make proof trustworthy enough to support reputation and rewards.
+Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and potential rewards. Validation helps make proof trustworthy enough to support reputation and potential rewards.
 
 ---
 
@@ -193,7 +193,7 @@ That is why Task Node matters.
 
 Task Node gives contributors a practical path for turning context into verified work.
 
-In Post Fiat, context is not just a prompt or task description. It is the authentic record you build over time: your values, strategies, tactics, constraints, prior work, proof history, and stated goals.
+In Post Fiat, context is not just a prompt or task description. It is the authentic record a contributor builds over time: values, strategies, tactics, constraints, prior work, proof history, and stated goals.
 
 That record helps the network understand what a contributor is working toward, what they have already done, and how each new contribution connects to the work that came before.
 
