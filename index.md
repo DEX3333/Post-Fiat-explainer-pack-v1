@@ -1,5 +1,5 @@
 ---
-title: Post Fiat L1 Explainer
+title: Post Fiat Explainer Pack v1
 description: Post Fiat is its own XRPL-derived Layer 1 and XRP competitor built for auditable validator trust, verified human work, portable reputation, AI-mediated coordination, and capital-market use cases.
 ---
 
@@ -23,7 +23,7 @@ Its contribution mechanism is:
 
 **Context → Tasks → Proof → Reputation/Rewards**
 
-Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and rewards. Validation helps make proof trustworthy enough to support reputation and rewards.
+Through Task Node, Post Fiat turns useful work into proof, portable reputation, AI-mediated coordination, and rewards. Validation helps make proof trustworthy enough to support reputation and potential rewards.
 
 ---
 
@@ -218,8 +218,6 @@ Task Node gives contributors a practical path:
 5. Make useful work reviewable for reputation, coordination, and potential rewards.
 
 Post Fiat is not just a chain for moving value. It is a network for making useful work legible.
-
-[Start with a Task Node contribution](https://tasknode.postfiat.org/)
 
 ---
 
