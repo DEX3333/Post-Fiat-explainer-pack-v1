@@ -255,7 +255,7 @@ It is not claiming full decentralization is already complete.
 
 The claim is narrower and stronger:
 
->  Post Fiat is building a more auditable coordination layer where validator trust, human contribution, AI-assisted review, portable reputation, and potential rewards can be connected through public proof.
+> Post Fiat is building a more auditable coordination layer where validator trust, human contribution, AI-assisted review, portable reputation, and potential rewards can be connected through public proof.
 
 ---
 
